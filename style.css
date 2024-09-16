@@ -22,7 +22,7 @@ body{
 }
 
 .image-box{
-    background-image: url(../img/product-image.jpg);
+    background-image: url(product-image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 450px;
